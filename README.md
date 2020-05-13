@@ -1,2 +1,1 @@
-# a3
-APIs Across Australia - Meetup
+![](./resources/a3-v2-small.png)
