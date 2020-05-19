@@ -12,7 +12,7 @@ Show your face, be present – it's a meetup! We're using ZOOM for that. Please 
 [![](https://img.shields.io/badge/-Join%20With%20Zoom-critical)
 ](https://us02web.zoom.us/j/83643128927)
 
-![](./resources/room1.png)
+![](./resources/room2.png)
 
 ### Or just watch the Live Stream
 
@@ -21,7 +21,7 @@ Watch the event on any device that has YouTube on it. You can still ask question
 [![](https://img.shields.io/badge/-Watch%20On%20YouTube-critical)
 ](https://www.youtube.com/watch?v=DjVpkWliAP4)
 
-![](./resources/yt1.png)
+![](./resources/yt2.png)
 
 ### Agenda & Event Info
 Just in case you haven't seen this yet, click here. Please register for the event so we can send you updates via email.
