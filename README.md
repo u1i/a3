@@ -1,9 +1,7 @@
+
+## Online Meetup | May 29th, 12 pm (noon) AET
+
 ![](./resources/a3-v2-small.png)
-
-
-# How To Join The Online Meetup | May 29th, 12 pm (noon) AET
-
-## Dial-In Information & Live Stream
 
 ### Join us in the (virtual) room
 
