@@ -26,7 +26,7 @@ Watch the event on any device that has YouTube on it. You can still ask question
 ### Agenda & Event Info
 Just in case you haven't seen this yet, click here. Please register for the event so we can send you updates via email.
 
-[![](https://img.shields.io/badge/-See%20the%20Agenda%20%26%20RSVP-critical)](https://www.eventbrite.com)
+[![](https://img.shields.io/badge/-See%20the%20Agenda%20%26%20RSVP-critical)](https://www.eventbrite.com.au/e/apis-across-australia-cdr-vs-open-banking-tickets-105340040898)
 
 
 # Do this before the event:
