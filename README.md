@@ -1,5 +1,5 @@
 
-## Online Meetup | May 29th, 12 pm (noon) AET
+## Online Meetup | May 29th, 12 pm (noon) AEST
 
 ![](./resources/a3-v2-small.png)
 
